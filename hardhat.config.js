@@ -33,5 +33,10 @@ module.exports = {
 	},
 	mocha: {
 		timeout: 20000
+	},
+	etherscan: {
+		apiKey: {
+			bsc: '4C2328SSW63VFIWQZMYWD2NZERUUGN3VT1'
+		}
 	}
 };
